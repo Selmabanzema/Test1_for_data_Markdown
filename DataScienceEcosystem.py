@@ -10,25 +10,25 @@
 # In[1]:
 
 
-list=["R","Python","SQL","Julia","C++","SPSS"]
+list=["R","Python","SQL","Julia","C++","Scala","Javascript","Ruby","Go"]
 print(list)
 
 
 # Some of the commonly used libraries used by Data Scientists include:
 
-# In[4]:
+# In[2]:
 
 
-list=["Pandas","Numpy","Matplotlib","Seaborn"]
+list=["Pandas","Numpy","Matplotlib","Seaborn","Keras","Pytorch","Tensorflow","Apache Park"]
 print(list)
 
 
 # Data Science Tools
 
-# In[6]:
+# In[3]:
 
 
-Tools=["Jypter Notebook","Pycharm","Pycharm","MLFlow"]
+Tools=["Jypter Notebook","Pycharm","Rstudio","MLFlow"]
 print(Tools)
 
 
@@ -46,6 +46,7 @@ print("list")
 # In[8]:
 
 
+#This a simple arithmetic expression to mutiply then add integers
 (2*3)/2+(5*3-1)
 
 
@@ -60,15 +61,19 @@ print(hour)
 
 
 # # Objectives
+# Add colomn to code cells.\
+# Create a mark down cell.\
+# Add ordered and un ordered list.\
+# Format content of markdown cell.
 
-# In[10]:
+# In[ ]:
 
 
-list=["R","SQL","Seaborn","Python","Weka"]
-print(list)
 
 
-# ## Selma Kınacıoğlu
+
+# ## Author
+# (Selma, Kinacioglu)
 
 # In[ ]:
 
